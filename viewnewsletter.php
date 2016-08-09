@@ -24,7 +24,7 @@ include ('includes/connectdb.php');
 			<td align="left"><b>Teaser</b></td>
 			<td align="left"><b>Miniteaser</b></td>
 			<!--<td align="left"><b>Category</b></td>-->
-			<td align="left"><b>Edit</b><b>Delete</b></td>
+			<td align="left"><b>Edit / </b><b>Delete</b></td>
 				
 		</tr>
 		<?php
